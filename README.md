@@ -2,7 +2,7 @@
 
 # Clone the Git Repository
 
-sudo git clone <link>
+1. sudo git clone https://github.com/porkalai39/AWS-Resource-Tracker.git
 
 # Configure AWS
 
